@@ -1,8 +1,8 @@
 #include<WiFi.h>
 #include<WebServer.h>
 
-const char ssid[] = "Write your wifi ssid";
-const char password[] = "Write your wifi password";
+const char ssid[] = "HomeWifi";
+const char password[] = " *       * ";
 
 const byte r_pin = 25;
 const byte g_pin = 26;
